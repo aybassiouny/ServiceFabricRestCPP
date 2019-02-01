@@ -38,6 +38,6 @@
     </SecurityAccessPolicies>
   </Policies>
   <Certificates>
-    <SecretsCertificate X509FindValue="8caa2d894613892e18bf89cf74db964351a06e4a" Name="MyCert" />
+    <SecretsCertificate X509FindValue="D670536EA4BADDF730784FE864A55F4AB49D7074" Name="MyCert" />
   </Certificates>
 </ApplicationManifest>

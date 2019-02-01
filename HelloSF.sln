@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld", "HelloSF\HelloSF.vcxproj", "{E02C34FB-B7CF-4A5B-8A30-852715393579}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RestServer", "RestServer\RestServer.vcxproj", "{E02C34FB-B7CF-4A5B-8A30-852715393579}"
 EndProject
-Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "HelloWorldSF", "HelloWorldSF\HelloWorldSF.sfproj", "{45BA4B3D-A23C-408C-8F77-CF1F3A9FC742}"
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "RestCluster", "RestCluster\RestCluster.sfproj", "{45BA4B3D-A23C-408C-8F77-CF1F3A9FC742}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

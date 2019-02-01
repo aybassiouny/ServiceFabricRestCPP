@@ -43,7 +43,7 @@
            listen. Please note that if your service is partitioned, this port is shared with 
            replicas of different partitions that are placed in your code. -->
       <Endpoint Name="HelloSFServiceTypeEndpoint" />
-      <Endpoint Name="HelloSFServiceTypeEndpoint1" Protocol="http" Port="8888"/>
+      <Endpoint Name="HelloSFServiceTypeEndpoint1" Protocol="tcp" Port="9009"/>
     </Endpoints>
   </Resources>
 </ServiceManifest>

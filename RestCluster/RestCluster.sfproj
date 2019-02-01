@@ -38,7 +38,7 @@
     <Content Include="..\x64\Release\cpprest_2_10.dll">
       <Link>ApplicationPackageRoot\HelloSFServicePkg\Code\cpprest_2_10.dll</Link>
     </Content>
-    <Content Include="..\x64\Release\HelloWorld.exe">
+    <Content Include="..\x64\Release\RestServer.exe">
       <Link>ApplicationPackageRoot\HelloSFServicePkg\Code\HelloWorld.exe</Link>
     </Content>
     <Content Include="..\x64\Release\LIBEAY32.dll">

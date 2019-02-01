@@ -20,7 +20,7 @@
                                     AzureActiveDirectory="true"
                                     ServerCertThumbprint="0123456789012345678901234567890123456789" />
   -->
-  <ClusterConnectionParameters ConnectionEndpoint="restcppfleet.eastus2.cloudapp.azure.com:19000" X509Credential="true" ServerCertThumbprint="8CAA2D894613892E18BF89CF74DB964351A06E4A" FindType="FindByThumbprint" FindValue="8CAA2D894613892E18BF89CF74DB964351A06E4A" StoreLocation="CurrentUser" StoreName="My" />
+  <ClusterConnectionParameters ConnectionEndpoint="cpprestsf.eastus2.cloudapp.azure.com:19000" X509Credential="true" ServerCertThumbprint="D670536EA4BADDF730784FE864A55F4AB49D7074" FindType="FindByThumbprint" FindValue="D670536EA4BADDF730784FE864A55F4AB49D7074" StoreLocation="LocalMachine" StoreName="My" />
   <ApplicationParameterFile Path="..\ApplicationParameters\Cloud.xml" />
   <CopyPackageParameters CompressPackage="true" />
   <UpgradeDeployment Mode="Monitored" Enabled="false">
